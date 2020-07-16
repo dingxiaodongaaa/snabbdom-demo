@@ -1,8 +1,13 @@
-html {
-  padding: 0;
-  margin: 0;
+body {
+  background: #fafafa;
+  font-family: sans-serif;
+}
 
-  body {
-    color: #f00;
-  }
+h1 {
+  font-weight: normal;
+}
+
+#app {
+  max-width: 42em;
+  margin: 0 auto 2em auto;
 }
